@@ -14,7 +14,7 @@ public class TestAndQuiz { //Java Naming convention/standard ->Not a must but re
 	
 	public static void main(String[] args) throws InterruptedException {
 
-		String browser = "firefox";
+		String browser = "chrome";
 		WebDriver driver = null;
 		
 		if (browser.equalsIgnoreCase("chrome"))
